@@ -67,7 +67,7 @@ Using Postman, I sent a couple of HTTP messages to interact with my application 
 
 3.6. Evidence of the flight updated in my browser.
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/f1ff5f2f-77e9-4f81-a1ee-8fff624ef3e8">
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f1ff5f2f-77e9-4f81-a1ee-8fff624ef3e8">
 
 3.7. I sent a DELETE request to delete a flight from my Flights application.
 
