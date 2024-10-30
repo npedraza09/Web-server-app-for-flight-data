@@ -82,7 +82,9 @@ Using Postman, I sent a couple of HTTP messages to interact with my application 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ed8b41d0-9e78-4c5b-adee-4c8875892947">
 
 
+## Conclusion
 
+In conclusion, this project successfully demonstrated the creation and management of a web server application for flight data using Strapi as a content management system. By designing structured collections for Airlines, Airports, and Flights, and employing Postman to execute CRUD operations, I showcased a robust approach to handling data interactions. Additionally, implementing a Python application to retrieve data highlighted my ability to integrate external applications with the server, ensuring a smooth data retrieval process. This project reflects my proficiency in API management, data handling, and practical application of CMS technologies to build scalable and efficient solutions for data-driven environments.
 
 
 
