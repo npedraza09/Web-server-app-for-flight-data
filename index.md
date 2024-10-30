@@ -31,11 +31,11 @@ I entered three rows for each table in my collection. Here is the evidence that 
 
 2.1. Airlines
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/910e04aa-73ae-41be-9365-55bdc9a578e7">
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/910e04aa-73ae-41be-9365-55bdc9a578e7">
 
 2.2. Airports
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/0c389542-1715-44d4-a9c7-7aa4577897e6">
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0c389542-1715-44d4-a9c7-7aa4577897e6">
 
 2.3. Flights
 
