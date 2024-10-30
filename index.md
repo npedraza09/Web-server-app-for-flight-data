@@ -59,7 +59,7 @@ Using Postman, I sent a couple of HTTP messages to interact with my application 
 
 3.4. This is my browser in the flights collection. Here is the evidence of the new flight that was created.
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/d00d88b6-e5df-44f0-a6d2-43fd1511e71e">
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d00d88b6-e5df-44f0-a6d2-43fd1511e71e">
 
 3.5. I sent a POST request to update a flight from my Flights application.
 
