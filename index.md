@@ -35,7 +35,7 @@ I entered three rows for each table in my collection. Here is the evidence that 
 
 2.2. Airports
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0c389542-1715-44d4-a9c7-7aa4577897e6">
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/0c389542-1715-44d4-a9c7-7aa4577897e6">
 
 2.3. Flights
 
