@@ -1,14 +1,20 @@
 # Index
+* [Abstract](#abstract)
+* [Process](#process)
+  * [Creation of Collection Types](#creation)
+  * [Data Insertion Test](#insertion)
+  * [Postman HTTP messages](#HTTP-messages)
+* [Conclusion](#conclusion)   
 
-
-
+<a class="anchor" id="abstract"></a>
 ## Abstract
 In this project, through Strapi I designed a web server application for managing flight data using a content management system. I created structured collections for Airlines, Airports, and Flights, populated each with sample data, and used Postman to interact with the server. Through GET, POST, PUT, and DELETE requests, I demonstrated the ability to retrieve, create, update, and delete flight records. Additionally, I implemented a Python application to make GET requests to the server, verifying data retrieval through Visual Studio Code. This project highlights my skills in web server management, API requests, and practical application development using CMS and Postman.
 
-
+<a class="anchor" id="process"></a>
 ## Process
 
-### 1. Creation of collection types
+<a class="anchor" id="creation"></a>
+### 1. Creation of Collection Types
 For my flight data app I created three collection types: Airline, Airport, and Flights.
 
 1.1. Airline collection
@@ -25,7 +31,7 @@ For my flight data app I created three collection types: Airline, Airport, and F
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/7b206402-80a5-4940-a2a7-9aeee571fa67">
 
-
+<a class="anchor" id="insertion"></a>
 ### 2. Data Insertion Test
 I entered three rows for each table in my collection. Here is the evidence that I entered the data by pointing my browser to each collection:
 
@@ -41,7 +47,7 @@ I entered three rows for each table in my collection. Here is the evidence that 
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/43bd6f12-1dcd-4dcb-afe8-5e9f522b8f28">
 
-
+<a class="anchor" id="HTTP-messages"></a>
 ### 3. Postman HTTP messages
 Using Postman, I sent a couple of HTTP messages to interact with my application and modify it.
 
@@ -81,7 +87,7 @@ Using Postman, I sent a couple of HTTP messages to interact with my application 
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ed8b41d0-9e78-4c5b-adee-4c8875892947">
 
-
+<a class="anchor" id="conclusion"></a>
 ## Conclusion
 
 In conclusion, this project successfully demonstrated the creation and management of a web server application for flight data using Strapi as a content management system. By designing structured collections for Airlines, Airports, and Flights, and employing Postman to execute CRUD operations, I showcased a robust approach to handling data interactions. Additionally, implementing a Python application to retrieve data highlighted my ability to integrate external applications with the server, ensuring a smooth data retrieval process. This project reflects my proficiency in API management, data handling, and practical application of CMS technologies to build scalable and efficient solutions for data-driven environments.
