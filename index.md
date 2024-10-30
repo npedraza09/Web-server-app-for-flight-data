@@ -22,7 +22,29 @@ For my flight data app I created three collection types: Airline, Airport, and F
 
 
 1.3. Flights collection
+
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/7b206402-80a5-4940-a2a7-9aeee571fa67">
+
+
+### 2. Data Insertion Test
+I entered three rows for each table in my collection. Here is the evidence that I entered the data by pointing my browser to each collection:
+
+2.1. Airlines
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/910e04aa-73ae-41be-9365-55bdc9a578e7">
+
+2.2. Airports
+
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/0c389542-1715-44d4-a9c7-7aa4577897e6">
+
+2.3. Flights
+
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/43bd6f12-1dcd-4dcb-afe8-5e9f522b8f28">
+
+
+### 3. Postman HTTP messages
+
+
 
 
 
