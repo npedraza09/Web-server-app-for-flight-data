@@ -12,7 +12,7 @@ In this project, through Strapi I designed a web server application for managing
 For my flight data app I created three collection types: Airline, Airport, and Flights.
 
 1.1. Airline collection
-<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/1d3a371e-7102-4e51-bbe2-005ce08a4a1d">
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/1d3a371e-7102-4e51-bbe2-005ce08a4a1d">
 
 1.2. Airport collection
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/6eee59e7-d230-4048-b75d-5936b51133c7">
