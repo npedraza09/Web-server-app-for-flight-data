@@ -75,7 +75,7 @@ Using Postman, I sent a couple of HTTP messages to interact with my application 
 
 3.8. Evidence of the flight deleted in my browser.
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/4ead4cb9-d2a1-491b-8e20-621b7c17d3ed">
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/4ead4cb9-d2a1-491b-8e20-621b7c17d3ed">
 
 3.9. I obtained the code to create a Python application to make a GET request for my airline application. I then ran the code in Visual Studio Code and to see the results and compare the interaction with the interface of Postman.
 
