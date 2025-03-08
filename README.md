@@ -1,6 +1,6 @@
 <a href="https://nicopedrazaportfolio.netlify.app/">Back to My Portfolio</a>
 
-# ✈️ Web App Server for Flight Data
+# ✈️ Web Server App for Flight Data
 
 <a class="anchor" id="index"></a>
 ## Index
